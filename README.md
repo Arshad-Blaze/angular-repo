@@ -1,5 +1,6 @@
-my Angular Projects are added after completed
+My First Stack Project - Basic Level CRUD Ops.
 
-1. Currency Convertor
-2. Simple Dashboard Framework
-3. Admin Dashboard Framework
+Front-End --> Angular JS
+Back-End --> Java Spring Boot (Rest)
+Database --> MySQL
+Actions --> Basic CRUD
